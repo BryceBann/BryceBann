@@ -12,7 +12,7 @@
 ✉️ &nbsp;\
 📄 &nbsp;
 
-<img alt="Night Coding" src=""/>
+<img alt="Night Coding" src="./images/coding.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="25" height="25"/>
