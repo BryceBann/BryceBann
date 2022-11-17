@@ -1,3 +1,4 @@
+
 <img alt="space intro" src="./images/space.png"/>
 <h2>Hello and welcome to my repo </h2>
 
@@ -11,7 +12,7 @@
 ✉️ &nbsp;\
 📄 &nbsp;
 
-<img alt="Night Coding" src="" align="right"/>
+<img alt="Night Coding" src=""/>
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="25" height="25"/>
@@ -26,17 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="25" height="25"/>
 
 
-
-
-
-
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/BryceBann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryceBann&theme=algolia&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryceBann&layout=compact&hide=shell&theme=algolia"/>
@@ -45,7 +38,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/bryce-bann-4151ba1b8/"><img src="https://img.shields.io/badge/-Bryce%20Bann-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:punkrice@gmail.com"><img src="https://img.shields.io/badge/-punkrice@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
