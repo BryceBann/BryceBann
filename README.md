@@ -1,17 +1,8 @@
-
-<img alt="space intro" src="./images/space.png"/>
 <h2>Hello and welcome to my repo </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;\
-🎓 &nbsp;\
-🌱 &nbsp;\
-✍️ &nbsp;\
-💬 &nbsp;\
-✉️ &nbsp;\
-📄 &nbsp;
-
+💡 &nbsp;Currently learning FullStack development with a high drive to learn and develop my skills\
 <img alt="Night Coding" src="./images/coding.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
