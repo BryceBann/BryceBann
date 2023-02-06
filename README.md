@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Currently learning FullStack development with a high drive to learn and develop my skills\
+💡 &nbsp; FullStack development with a high drive to learn and develop my skills\
 <img alt="Night Coding" src="./images/coding.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
