@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; FullStack development with a high drive to learn and develop my skills\
+💡 &nbsp; FullStack developer with skills in creating highly responsive and interactive webpages and applications.<br> Currently developing and learning new skills to become highly valuable with in-demand skill sets.  \
 <img alt="Night Coding" src="./images/coding.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -17,6 +17,8 @@
 - Jquerry <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquerry" width="25" height="25"/><br>
 - Express <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/><br>
 - Handlebars <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="25" height="25"/><br>
+- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="handlebars" width="25" height="25"/><br>
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="handlebars" width="25" height="25"/>
 </p>
 
 
